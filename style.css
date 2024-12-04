@@ -1,10 +1,10 @@
 body{
-    color: black;
-    background-color: plum;
+    color: mediumseagreen;
+    background-color: mintcream;
     }
     
     section{
-    background: rgb(205, 205, 240);
+    background: rgb(0, 0, 0);
     padding-bottom: 5px;
     padding-top: 80px;
     display: flex;
